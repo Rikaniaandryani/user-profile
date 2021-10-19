@@ -8,6 +8,11 @@
     "phoneNumber": "081111111111",
     "phoneNumberTelkomsel": false,
     "createdAt": "2021-10-19T07:26:34.643Z",
-    "updatedAt": "2021-10-19T07:26:34.643Z"
+    "updatedAt": "2021-10-19T07:26:34.643Z",
+    "city": "DKI Jakarta",
+    "dob": "2021-12-25",
+    "gender": "MALE",
+    "device_type": "iphone 11 pro",
+    "device_os": "IOS 14"
   }
 }
