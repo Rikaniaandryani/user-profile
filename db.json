@@ -1,13 +1,13 @@
 {
-  "data": {
-    "id": "302af9af-aa43-4def-9a43-15fcca09ddc9",
-    "type": "po",
-    "name": "user",
-    "email": "test@mail.com",
-    "emailVerified": false,
-    "phoneNumber": "081111111111",
-    "phoneNumberTelkomsel": false,
-    "createdAt": "2021-10-19T07:26:34.643Z",
-    "updatedAt": "2021-10-19T07:26:34.643Z"
+  data: {
+    id: "302af9af-aa43-4def-9a43-15fcca09ddc9",
+    type: "po",
+    name: "user",
+    email: "test@mail.com",
+    emailVerified: false,
+    phoneNumber: "081111111111",
+    phoneNumberTelkomsel: false,
+    createdAt: "2021-10-19T07:26:34.643Z",
+    updatedAt: "2021-10-19T07:26:34.643Z"
   }
 }
