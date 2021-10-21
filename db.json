@@ -13,7 +13,8 @@
     "dob": "2021-12-25",
     "gender": "MALE",
     "device_type": "iphone 11 pro",
-    "device_os": "IOS 14"
+    "device_os": "IOS 14",
+    "category" : "Internet"
   },
            {
     "id": "302af9af-aa43-4def-9a43-15fcca09ddc1",
@@ -29,6 +30,8 @@
     "dob": "2021-12-25",
     "gender": "MALE",
     "device_type": "iphone 11 pro",
-    "device_os": "IOS 14"
+    "device_os": "IOS 14",
+    "category" : "Internet"
+             
   }]
 }
