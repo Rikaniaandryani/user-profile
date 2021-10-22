@@ -1,0 +1,41 @@
+[
+  {
+    "id": "302af9af-aa43-4def-9a43-15fcca09ddc9",
+    "type": "po",
+    "name": "user",
+    "email": "test@mail.com",
+    "emailVerified": false,
+    "phoneNumber": "081111111111",
+    "phoneNumberTelkomsel": false,
+    "phoneNumberLinkaja": "081111111111",
+    "phoneNumberLinkajaVerified" : false,
+    "createdAt": "2021-10-19T07:26:34.643Z",
+    "updatedAt": "2021-10-19T07:26:34.643Z",
+    "city": "DKI Jakarta",
+    "dob": "2021-12-25",
+    "gender": "MALE",
+    "device_type": "iphone 11 pro",
+    "device_os": "IOS 14",
+    "category" : "Internet"
+  },
+           {
+    "id": "302af9af-aa43-4def-9a43-15fcca09ddc1",
+    "type": "tester",
+    "name": "john doe",
+    "email": "johndoe@mail.com",
+    "emailVerified": false,
+    "phoneNumber": "081111111111",
+    "phoneNumberTelkomsel": false,
+    "phoneNumberLinkaja": "081111111111",
+    "phoneNumberLinkajaVerified" : true,
+    "createdAt": "2021-10-19T07:26:34.643Z",
+    "updatedAt": "2021-10-19T07:26:34.643Z",
+    "city": "DKI Jakarta",
+    "dob": "2021-12-25",
+    "gender": "MALE",
+    "device_type": "iphone 11 pro",
+    "device_os": "IOS 14",
+    "category" : "Internet"
+             
+  }
+]
